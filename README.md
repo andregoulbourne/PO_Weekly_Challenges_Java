@@ -1,4 +1,4 @@
-For Java:
-Write java program to do level order traversal of binary tree. You can use queue data structure to do level order traversal.
+# Weekly Coding Challenges Project Onboard
+- This is a repository to hold all of my solutions to the weekly coding challenges
 
-Test files in src/test/java/com.revature
+- Test files will be in the src/test/java/ directory
