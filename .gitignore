@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 
 /.metadata/
+=======
+.project
+.settings
+.classpath
+target/
+.factorypath
+bin
+>>>>>>> 247372c391ed75028c3d76f8d320d8dacbfb15df
